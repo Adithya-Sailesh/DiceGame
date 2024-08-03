@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+.appmain{
+    height: 100vh;
+    background-color: white;
+}
+.appmain h1{
+    font-size: 50px;
+}
